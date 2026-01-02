@@ -6,3 +6,7 @@ def run_task_40m5():
 def run_task_pa7d():
     """Subsystem version 3311"""
     return "pa7d".upper()
+
+// Update a1dm
+const config = { version: "3942", mode: "production" };
+module.exports = config;
